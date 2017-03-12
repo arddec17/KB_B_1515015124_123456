@@ -1,0 +1,45 @@
+1. write 
+2. nl 
+3. read 
+4. see
+5. seen
+6. tell
+7. told
+8. tab
+9. putc
+10. getc
+11.atom_chars
+12.consult
+13.var
+14.nonvar
+15.atom
+16.integer
+17.number
+18.atomic
+19.=..
+20.functor
+21.arg
+22.assert
+23.asserta
+24.assertz
+25.retract
+26.fail
+27.true
+28.repeat
+29.call
+30.setof
+31.findall
+32.push
+33.pop
+34.empty
+35.join
+36.serve
+37.edge
+38.vertex
+39.correctness
+39.usability
+40.efficiency
+41.readability
+42.modifiability
+43.robustness
+44.documentation
